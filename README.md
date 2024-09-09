@@ -17,7 +17,10 @@ console.log(somar())
 Código Corrigido abaixo:
 
 ```js
-const x, y = 5
+let x = 5;
+const y = 5;
+
+x += 10;
 
 function somar () {
   return x + y
