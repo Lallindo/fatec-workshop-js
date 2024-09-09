@@ -8,7 +8,7 @@ Código NÂO Corrigido:
 const x, y = 5
 
 function somar () {
-  return x + y
+  r = x + y
 }
 
 console.log(somar())
