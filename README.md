@@ -6,6 +6,7 @@ Código NÂO Corrigido:
 
 ```js
 const x, y = 5
+x + 10
 
 function somar () {
   r = x + y
